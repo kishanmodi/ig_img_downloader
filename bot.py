@@ -27,7 +27,7 @@ def get_ig_img(url):
 
 ###################################################################################
 
-bot_token ="1471730304:AAGqL9p0aUBstl3q9qEV1GxRa2BbJ4DaD08"
+bot_token ="Bot Token Here"
 
 bot = telebot.TeleBot(token=bot_token)
 
